@@ -18,3 +18,4 @@ social-auth-core==3.2.0
 sqlparse==0.3.0
 urllib3==1.25.7
 virtualenv==16.7.7
+waitress==1.0.2
